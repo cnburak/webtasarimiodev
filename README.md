@@ -1,1 +1,1 @@
-Link: cnburak.github.io/webtasarimiodev
+Link: https://cnburak.github.io/webtasarimiodev
