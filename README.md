@@ -1,1 +1,1 @@
-index.html
+Link: cnburak.github.io/webtasarimiodev
